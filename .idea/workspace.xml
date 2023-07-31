@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="982ecf18-b2bb-49bd-9466-2fe704308bdd" name="Changes" comment="" />
+    <list default="true" id="982ecf18-b2bb-49bd-9466-2fe704308bdd" name="Changes" comment="random number">
+      <change afterPath="$PROJECT_DIR$/Test/test_random_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_number.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +46,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="random_number" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="password" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -52,7 +57,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
