@@ -1,0 +1,4 @@
+
+    for char in password:
+        if not char.isascii():
+            return False
